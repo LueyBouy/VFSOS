@@ -1,3 +1,4 @@
+## For anyone viewing, this changelog is now pointless really, it has been WAYYY jumped, we're now on version 4.0! R.I.P., a changelog allowing access from an applet in the browser will be added in VFS OS Beta 4.0 DevRelease 9
 # Changelog
 
 # Beta 1.3
